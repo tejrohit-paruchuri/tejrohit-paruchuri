@@ -18,8 +18,6 @@ I am a CSE student based in Hyderabad, passionate about building high-performanc
 
 ---
 
-### 📖 About Me
-I am a CSE student based in Hyderabad, passionate about building high-performance software and exploring the intricacies of mobile technology. From optimizing algorithms to organizing **InnoQuest**, I am dedicated to continuous growth and innovation.
 
 ### 🛠 My Tech Stack
 
