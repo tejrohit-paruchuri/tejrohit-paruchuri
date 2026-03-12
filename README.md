@@ -1,23 +1,4 @@
-<div align="right" style="position: relative; z-index: 10;">
-    <img 
-        src="https://github.com/tejrohit-paruchuri/tejrohit-paruchuri/blob/main/sq.jpg" 
-        alt="Tej Rohit Paruchuri"
-        width="150"
-        style="
-            border-radius: 50%; 
-            border: 4px solid #F00; 
-            box-shadow: 0 4px 8px rgba(0,0,0,0.5); 
-            object-fit: cover; 
-            margin-top: -10px;
-            border-radius: 350px;
-            margin-right: -10px; 
-            position: absolute; 
-            top: 0; 
-            right: 0;" 
-    />
-</div>
-
-<div style="background-color: black; color: white; min-height: 400px; padding: 20px;">
+<div style="background-color: black; color: white; min-height: 400px; padding: 20px; font-family: sans-serif;">
 
 # <font color="#FF0000">TEJ ROHIT PARUCHURI</font>
 
@@ -27,12 +8,10 @@ I am a CSE student based in Hyderabad, passionate about building high-performanc
 
 <div align="center">
 
-### 🚀 Aspiring Software Engineer | Tech Enthusiast | Student @ Anurag University
-
-
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/paruchuri_tejrohit/?hl=en) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tej-rohit-paruchuri/) 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/tejrohit_paruchuri/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/24eg105r02)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/832923401278455818)
 
 </div>
@@ -40,7 +19,7 @@ I am a CSE student based in Hyderabad, passionate about building high-performanc
 ---
 
 ### 📖 About Me
-I am a CSE student based in Hyderabad, passionate about building high-performance software and exploring the intricacies of mobile technology. Whether I'm debugging logic or coordinating large-scale tech events like **InnoQuest**, I thrive on solving complex problems.
+I am a CSE student based in Hyderabad, passionate about building high-performance software and exploring the intricacies of mobile technology. From optimizing algorithms to organizing **InnoQuest**, I am dedicated to continuous growth and innovation.
 
 ### 🛠 My Tech Stack
 
@@ -51,9 +30,9 @@ I am a CSE student based in Hyderabad, passionate about building high-performanc
 | **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) |
 
 ### 🚀 Featured Projects
-* **Active STUDENT:** A universal extension for various UMS applications using MERN & Firebase.
-* **ProsecutorNow:** A justice-finding platform designed for societal safety.
-* **Structode:** A Grok API-powered companion to help students master coding logic without over-reliance on AI.
+* **Active STUDENT:** A universal extension for UMS applications built with MERN & Firebase.
+* **ProsecutorNow:** A justice-finding platform designed to bridge the gap between citizens and legal counsel.
+* **Structode:** A logic-first coding companion using Grok API to foster better learning habits.
 
 ### 📊 GitHub Stats
 ![Tej's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejrohitparuchuri&show_icons=true&theme=radical)
@@ -62,12 +41,11 @@ I am a CSE student based in Hyderabad, passionate about building high-performanc
 ---
 
 ### ⚡ Random Fact
-> **Laughter is Medicine:** Laughing more during the day can actually compensate for less sleep by reducing cortisol (the stress hormone), improving your mood, and enhancing the overall quality of the rest you *do* get. 
+> **Laughter is Medicine:** Laughing more during the day can actually compensate for less sleep by reducing cortisol, improving mood, and enhancing overall rest quality. 
 
 ---
 <div align="center">
-  <b>Spider-Man Fan?</b> 🕸️ Let's swing into a conversation about tech!
+  <b>Spider-Man Fan?</b> 🕸️ Let's swing into a conversation about math & tech!
 </div>
-
 
 </div>
