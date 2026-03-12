@@ -1,6 +1,6 @@
 <div align="right" style="position: relative; z-index: 10;">
     <img 
-        src="[https://raw.githubusercontent.com/tejrohit-paruchuri/tejrohit-paruchuri/main/IMG_0784%20(1).jpg](https://github.com/tejrohit-paruchuri/tejrohit-paruchuri/blob/main/sq.jpg)" 
+        src="https://github.com/tejrohit-paruchuri/tejrohit-paruchuri/blob/main/sq.jpg" 
         alt="Tej Rohit Paruchuri"
         width="150"
         style="
